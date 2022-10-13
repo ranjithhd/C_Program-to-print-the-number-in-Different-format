@@ -2,8 +2,8 @@
 
 | **ID** | **Description Category** | **status** |
 | --- | --- | --- |
-| HR01 | Four rows must be printed | Implemented |
-| HR02 | User must get the numbers printed in the format given. | Implemented |
+| HR01 | Four rows should be printed | Implemented |
+| HR02 | User should get the numbers printed as per requirement | Implemented |
 
 **Low\_level\_Requirements:**
 
