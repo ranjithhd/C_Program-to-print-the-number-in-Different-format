@@ -20,3 +20,6 @@
 ##### If there are errors, correct the errors and recompile the program.
 ##### If there are no errors, then press Ctrl + F9 to execute/run the program.
 ##### Press Alt + F5 to open User Screen and check the result.
+
+### Video file
+##### [Recording_1665654575640.webm](https://user-images.githubusercontent.com/115522470/195574987-2d8294d6-7141-4ee2-8763-0f588e08f336.webm)
