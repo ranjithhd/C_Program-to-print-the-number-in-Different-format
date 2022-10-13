@@ -2,8 +2,8 @@
 
 | **Req\_id** | **Test\_case\_id** | **Description Category** | **Expected\_input** | **Expected\_output** | **Actual\_output** | **status** |
 | --- | --- | --- | --- | --- | --- | --- |
-| HR01 | TS\_01 | Four rows must be printed | 00 | -------------------------------- | yes | Implemented |
-| HR02 | TS\_02 | User must get the numbers printed as per requirement | 12 | ----------------------------\*\*-- | yes | Implemented |
+| HR01 | TS\_01 | Four rows shall be printed | 00 | -------------------------------- | yes | Implemented |
+| HR02 | TS\_02 | User should get the numbers printed as per requirement | 12 | ----------------------------\*\*-- | yes | Implemented |
 
 **Low\_level\_Requirements:**
 
