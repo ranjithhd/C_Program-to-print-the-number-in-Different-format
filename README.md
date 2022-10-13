@@ -1,4 +1,8 @@
 ## C_Pgm_To_Print_in_Different_format
+
+### Introduction
+##### The Popular programming languages like C use the compiler to convert high-level language instructions into low-level language instructions. A compiler is a program that converts high-level language instructions into low-level language instructions The compiler performs two things, first it verifies the program errors, if errors are found, it returns a list of errors otherwise it converts the complete code into the low-level language. 
+
 ### Objective
 ##### Program to print a '*' in the perticular bits for the binary 1 and binary 0 should be printed as'_'for the given input number.
 ##### It should be started from the LHS and continuing to RHS.
