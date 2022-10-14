@@ -1,4 +1,12 @@
-## C_Pgm_To_Print_in_Different_format
+## Mini-Project
+
+## Ranjith H D
+![Ranjithphoto](https://user-images.githubusercontent.com/115522470/195775291-00e5c0d6-64d4-45fc-adb0-db39a1b8b4a2.jpg)
+#### Senior Assistant Professor
+#### MITE, Moodabidri
+
+
+## C-Program to print the given number in the format mentioned in the program.
 
 ### Introduction
 ##### The Popular programming languages like C use the compiler to convert high-level language instructions into low-level language instructions. A compiler is a program that converts high-level language instructions into low-level language instructions The compiler performs two things, first it verifies the program errors, if errors are found, it returns a list of errors otherwise it converts the complete code into the low-level language. 
