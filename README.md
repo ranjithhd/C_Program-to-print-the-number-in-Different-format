@@ -1,7 +1,8 @@
 ## Mini-Project
 
 ## Ranjith H D
-![PHOTO at LT](https://user-images.githubusercontent.com/115522470/195784838-b4905355-ecee-4d9a-99e7-db0310b21dca.jpg)
+![Ranjith](https://user-images.githubusercontent.com/115522470/195812255-1a464deb-1bba-4e74-a131-645c9c13d8fd.jpg)
+
 
 #### Senior Assistant Professor
 #### MITE, Moodabidri
