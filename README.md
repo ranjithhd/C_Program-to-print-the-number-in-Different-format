@@ -5,6 +5,14 @@
 #### Senior Assistant Professor
 #### MITE, Moodabidri
 
+**Folder Structure**
+
+| Serial No. | Name of the file | Contents |
+| --- | --- | --- |
+| 01 | Design | It contains high & low level structural and behavioral Diagrams. |
+| 02 | Implementation | It contains source code in C language. |
+| 03 | Requirements | It contains High and Lo level Requirements. |
+| 04 | Test Plan | It contains Test cases. |
 
 ## C-Program to print the given number in the format mentioned in the program.
 
